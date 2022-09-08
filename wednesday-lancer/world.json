@@ -1,0 +1,260 @@
+{
+  "title": "Wednesday Lancer",
+  "description": "<p>Wednesday Lancer Game</p>",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "name": "core_bonus",
+      "type": "Item",
+      "label": "Core Bonus",
+      "system": "lancer",
+      "path": "packs/core_bonus.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "deployable",
+      "type": "Actor",
+      "label": "Deployable",
+      "system": "lancer",
+      "path": "packs/deployable.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "environment",
+      "type": "Item",
+      "label": "Environment",
+      "system": "lancer",
+      "path": "packs/environment.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "faction",
+      "type": "Item",
+      "label": "Faction",
+      "system": "lancer",
+      "path": "packs/faction.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "frame",
+      "type": "Item",
+      "label": "Frame",
+      "system": "lancer",
+      "path": "packs/frame.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "mech",
+      "type": "Actor",
+      "label": "Mech",
+      "system": "lancer",
+      "path": "packs/mech.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "license",
+      "type": "Item",
+      "label": "License",
+      "system": "lancer",
+      "path": "packs/license.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "manufacturer",
+      "type": "Item",
+      "label": "Manufacturer",
+      "system": "lancer",
+      "path": "packs/manufacturer.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "npc",
+      "type": "Actor",
+      "label": "Npc",
+      "system": "lancer",
+      "path": "packs/npc.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "npc_class",
+      "type": "Item",
+      "label": "Npc Class",
+      "system": "lancer",
+      "path": "packs/npc_class.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "npc_template",
+      "type": "Item",
+      "label": "Npc Template",
+      "system": "lancer",
+      "path": "packs/npc_template.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "npc_feature",
+      "type": "Item",
+      "label": "Npc Feature",
+      "system": "lancer",
+      "path": "packs/npc_feature.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "weapon_mod",
+      "type": "Item",
+      "label": "Weapon Mod",
+      "system": "lancer",
+      "path": "packs/weapon_mod.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "mech_system",
+      "type": "Item",
+      "label": "Mech System",
+      "system": "lancer",
+      "path": "packs/mech_system.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "mech_weapon",
+      "type": "Item",
+      "label": "Mech Weapon",
+      "system": "lancer",
+      "path": "packs/mech_weapon.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "organization",
+      "type": "Item",
+      "label": "Organization",
+      "system": "lancer",
+      "path": "packs/organization.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "pilot_armor",
+      "type": "Item",
+      "label": "Pilot Armor",
+      "system": "lancer",
+      "path": "packs/pilot_armor.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "pilot_gear",
+      "type": "Item",
+      "label": "Pilot Gear",
+      "system": "lancer",
+      "path": "packs/pilot_gear.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "pilot_weapon",
+      "type": "Item",
+      "label": "Pilot Weapon",
+      "system": "lancer",
+      "path": "packs/pilot_weapon.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "pilot",
+      "type": "Actor",
+      "label": "Pilot Preset",
+      "system": "lancer",
+      "path": "packs/pilot.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "reserve",
+      "type": "Item",
+      "label": "Reserve",
+      "system": "lancer",
+      "path": "packs/reserve.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "sitrep",
+      "type": "Item",
+      "label": "Sitrep",
+      "system": "lancer",
+      "path": "packs/sitrep.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "skill",
+      "type": "Item",
+      "label": "Skill",
+      "system": "lancer",
+      "path": "packs/skill.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "status",
+      "type": "Item",
+      "label": "Status/Condition",
+      "system": "lancer",
+      "path": "packs/status.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "tag",
+      "type": "Item",
+      "label": "Tag",
+      "system": "lancer",
+      "path": "packs/tag.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "talent",
+      "type": "Item",
+      "label": "Talent",
+      "system": "lancer",
+      "path": "packs/talent.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "quirk",
+      "type": "Item",
+      "label": "Quirk",
+      "system": "lancer",
+      "path": "packs/quirk.db",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "system": "lancer",
+  "coreVersion": "10.284",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.2.0",
+  "id": "wednesday-lancer",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.284"
+  }
+}
